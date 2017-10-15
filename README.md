@@ -29,3 +29,14 @@ BONUS
   - Click on the black bar at the bottom of the page that says 1 Family Selected
   - Copy the `<link>` and put it inside the `<head>` tag in your HTML
   - Follow the font-family instructions for your CSS
+
+
+
+
+## WEEK 5: HOMEWORK!
+* Go to www.repl.it
+* Login
+    - username: yourfirstname_yourlastname
+    - password: hwstudio5122
+* Click on our Web Development classroom
+* Find the week 5 assignment
