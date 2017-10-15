@@ -5,9 +5,9 @@
 
 #### In script.js
 - Select all of the word boxes using their class and save them in a variable called words like this:
-  ``` var words = $(".words"); ```
+  - ``` var words = $(".words"); ```
 - The first thing we want to do is make all of the words fade out.
-``` words.fadeOut(); ```
+  - ``` words.fadeOut(); ```
 - Let's use `fadeIn()` to show the words "we love to code"
   - Select `<div>` with "we" inside and save it in a variable 
     ``` var we = $("#we");```
