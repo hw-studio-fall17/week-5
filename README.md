@@ -10,11 +10,11 @@
   - ``` words.fadeOut(); ```
 - Let's use `fadeIn()` to show the words "we love to code"
   - Select `<div>` with "we" inside and save it in a variable 
-    ``` var we = $("#we");```
+    - ``` var we = $("#we");```
   - Use fadeIn() to fade this word back in.
-    ``` we.fadeIn(); ```
+    - ``` we.fadeIn(); ```
   - Continue this same process for the words "love", "to", and "code"
-- Make the words fade in more slowly. Hint: look here: [https://www.w3schools.com/jquery/tryit.asp?filename=tryjquery_fadein](https://www.w3schools.com/jquery/tryit.asp?filename=tryjquery_fadein)
+- Make the words fade in more slowly. *HINT* look here: [https://www.w3schools.com/jquery/tryit.asp?filename=tryjquery_fadein](https://www.w3schools.com/jquery/tryit.asp?filename=tryjquery_fadein)
 
 
 #### In style.css
