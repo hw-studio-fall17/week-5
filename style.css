@@ -15,3 +15,8 @@
 #title {
   text-align: center;
 }
+
+body {
+  background-color: gray;
+  background: linear-gradient(45deg, red, blue);
+}
