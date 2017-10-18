@@ -24,10 +24,10 @@
 
 #### BONUS
 - Change your message to say something different when it fades in.
-- Add a [google font](https://fonts.google.com/) to your page. Hint: you may want to google how to add
+- Add a [google font](https://fonts.google.com/) to your page.
   - Click on the red plus sign of the font you want to use
   - Click on the black bar at the bottom of the page that says 1 Family Selected
-  - Copy the `<link>` and put it inside the `<head>` tag in your HTML
+  - Copy the `<link>` and put it inside the `<head>` tag in your HTML file
   - Follow the font-family instructions for your CSS
 
 
